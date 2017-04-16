@@ -1,0 +1,14 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/HouseInteriorApp.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/HouseInteriorApp.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/HouseInteriorApp.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/HouseInteriorApp.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/HouseInteriorApp.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/DomainModel.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/Drawing.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/Utility.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/DomainModel.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/Utility.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/bin/Debug/netcoreapp1.1/Drawing.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/obj/Debug/netcoreapp1.1/HouseInteriorApp.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/obj/Debug/netcoreapp1.1/HouseInteriorApp.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/HouseInteriorApp/obj/Debug/netcoreapp1.1/HouseInteriorApp.pdb

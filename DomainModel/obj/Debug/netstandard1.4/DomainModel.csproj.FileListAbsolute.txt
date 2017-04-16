@@ -1,0 +1,8 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/bin/Debug/netstandard1.4/DomainModel.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/bin/Debug/netstandard1.4/DomainModel.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/bin/Debug/netstandard1.4/DomainModel.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/bin/Debug/netstandard1.4/Drawing.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/bin/Debug/netstandard1.4/Drawing.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/obj/Debug/netstandard1.4/DomainModel.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/obj/Debug/netstandard1.4/DomainModel.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DomainModel/obj/Debug/netstandard1.4/DomainModel.pdb

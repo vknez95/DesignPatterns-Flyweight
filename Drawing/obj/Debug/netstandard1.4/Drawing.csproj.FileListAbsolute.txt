@@ -1,0 +1,6 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/Drawing/bin/Debug/netstandard1.4/Drawing.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/Drawing/bin/Debug/netstandard1.4/Drawing.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/Drawing/bin/Debug/netstandard1.4/Drawing.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/Drawing/obj/Debug/netstandard1.4/Drawing.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/Drawing/obj/Debug/netstandard1.4/Drawing.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/Drawing/obj/Debug/netstandard1.4/Drawing.pdb

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "houseinteriorapp/1.0.0": {
+        "dependencies": {
+          "DomainModel": "1.0.0",
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "HouseInteriorApp.dll": {}
+        }
+      },
+      "domainmodel/1.0.0": {
+        "dependencies": {
+          "Drawing": "1.0.0"
+        },
+        "runtime": {
+          "DomainModel.dll": {}
+        }
+      },
+      "drawing/1.0.0": {
+        "runtime": {
+          "Drawing.dll": {}
+        }
+      },
+      "utility/1.0.0": {
+        "runtime": {
+          "Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "houseinteriorapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "domainmodel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "drawing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/bin/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/bin/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/bin/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/bin/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/bin/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/obj/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/obj/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Flyweight/DotNetFrameworkStringIntern/obj/Debug/netcoreapp1.1/DotNetFrameworkStringIntern.pdb
